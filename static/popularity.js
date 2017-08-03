@@ -39,12 +39,12 @@ Highcharts.chart('container', {
         colorByPoint: true,
         data: [{
             name: 'Narendra Modi',
-            y: modi_count, //956 modi_count
+            y: 956, //956 modi_count
             drilldown: 'Narendra Modi'
             
         }, {
             name: 'Arvind Kejriwal',
-            y: kejriwal_count, //9 kejriwal_count
+            y: 9, //9 kejriwal_count
             drilldown: 'Arvind Kejriwal'
             
         }]
