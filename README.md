@@ -5,6 +5,11 @@ Task A
 Web development framework used: Flask
 Tweepy RESTful API used to stream data from twitter.
 
+4 tasks done:
+1. Retweeted tweets vs original tweets
+2. Geotagging of tweets
+3. Distribution of favourite count
+4. Popularity: Modi vs Kejriwal
 
 FILES AND DIRECTORIES
 
