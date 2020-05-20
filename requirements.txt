@@ -5,7 +5,7 @@ Flask-Stormpath==0.4.8
 Flask-WTF==0.14.2
 future==0.16.0
 gunicorn==19.7.1
-httplib2==0.10.3
+httplib2==0.18.0
 Jinja2==2.9.6
 jsonschema==2.6.0
 MarkupSafe==1.0
